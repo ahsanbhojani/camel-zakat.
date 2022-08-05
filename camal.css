@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    font-size: xx-large;
+}
+input{
+    text-align: center;
+    margin-left: 550px;
+    width: 150px;
+    height: 50px;
+    border-radius: 35px;
+}
+button{
+    text-align: center;
+    margin-left: 550px;
+    width: 150px;
+    height: 50px;
+    border-radius: 35px;
+}
+body{
+    background-image: url(FFF.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
